@@ -1,1 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @moriyama-junji
+/src/backend/database.py      @moriyama-junji
+/src/backend/routers/auth.py  @moriyama-junji
 
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @moriyama-junji
